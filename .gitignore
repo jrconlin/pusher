@@ -1,0 +1,8 @@
+lib/
+bin/
+include/
+local/
+share/
+pip-selfcheck.json
+.idea/
+
